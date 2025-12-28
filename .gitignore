@@ -1,0 +1,22 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+out/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.tmp
+
+# MacOS files (optional, if using Mac)
+.DS_Store
