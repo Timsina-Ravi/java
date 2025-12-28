@@ -5,7 +5,6 @@ This repository contains my **Core Java learning journey**, focused on understan
 It is a **theory + minimal example reference repository** — not meant for extensive practice or full projects.
 
 ## Repository Structure
-
 java/
 ├── 01_Introduction_To_Programming
 ├── 02_Introduction_To_Java_Architecture
@@ -20,6 +19,7 @@ java/
 ├── 11_Collections
 ├── 12_Java8
 └── 13_JDBC
+
 
 
 ## Each Folder Contains
