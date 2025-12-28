@@ -85,9 +85,3 @@ java/
 3. Use this repository as a **reference guide** for backend development  
 
 ---
-
-## Next Steps
-- Start solving coding problems in `logic-building` repository  
-- Build mini-projects to apply Java concepts in real-world scenarios  
-- Expand knowledge with Spring, Hibernate, and other backend technologies
-```
