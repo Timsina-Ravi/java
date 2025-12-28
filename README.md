@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains my **Core Java learning journey**, focused on understanding **syntax, OOP concepts, and backend fundamentals**.  
-It is a **theory + minimal example reference** repository — not meant for extensive practice or full projects.
+It is a **theory + minimal example reference repository** — not meant for extensive practice or full projects.
 
 ## Repository Structure
 
@@ -22,11 +22,9 @@ java/
 └── 13_JDBC
 
 
-
-
-Each folder contains:
-- **Theory**: PDFs with handwritten notes  
-- **Practice**: Minimal example code demonstrating the concepts
+## Each Folder Contains
+- **Theory:** PDFs with handwritten notes  
+- **Practice:** Minimal example code demonstrating the concepts
 
 ## Purpose
 - Build strong Java fundamentals  
@@ -34,6 +32,6 @@ Each folder contains:
 - Separate **learning** from **practice/projects** (handled in another repo)
 
 ## Next Steps
-- Practice coding in `backend-logic-building` repo  
+- Practice coding in `logic-building` repo  
 - Build mini projects to reinforce concepts
 
