@@ -4,7 +4,7 @@
 ## Overview
 This repository contains my **Core Java learning journey**, focused on building a strong foundation in **Java syntax, Object-Oriented Programming (OOP) concepts, and backend fundamentals**.  
 
-It serves as a **theory and example reference**, not a full project repository. All practice problems and project-based learning are handled in a separate repository named `backend-logic-building`.
+It serves as a **theory and example reference**, not a full project repository. All practice problems and project-based learning are handled in a separate repository named `Java-Practice-Project`.
 
 ---
 
